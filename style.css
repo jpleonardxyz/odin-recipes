@@ -26,3 +26,32 @@ img {
     height: auto;
     width: 300px;
 }
+
+.header {
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+    color: fuchsia;
+    font-size:42px;
+    text-align: center;
+}
+
+.raw {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: auto;
+}
+
+.links {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+button {
+    padding: 15px;
+    margin: 10px;
+    font-size: 18px;
+    width: 250px;
+    background-color:aquamarine;
+}
